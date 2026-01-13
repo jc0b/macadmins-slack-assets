@@ -13,9 +13,6 @@ This file exists to enable rapid rebuilds if Slack RSS integrations are lost.
 
 ## #blog-feed
 
-- **9to5Mac**  
-  http://9to5mac.com/feed.xml
-
 - **Apple Newsroom**  
   http://www.apple.com/pr/feeds/pr.rss
 
@@ -63,9 +60,6 @@ This file exists to enable rapid rebuilds if Slack RSS integrations are lost.
 
 - **Jamf Blog**  
   http://www.jamf.com/blog/rss/
-
-- **Jamf Press Releases**  
-  https://www.jamf.com/press-releases/rss/
 
 - **krypted**  
   http://krypted.com/feed/
@@ -131,7 +125,20 @@ This file exists to enable rapid rebuilds if Slack RSS integrations are lost.
 - **mike solin's blog**  
   https://mikesolin.com/feed/
 
+---
 
+## #apple-rumors
+
+- **9to5Mac**  
+  http://9to5mac.com/feed.xml
+
+- **MacRumors: Mac News and Rumors**  
+  https://feeds.macrumors.com/MacRumors-All 
+  
+  - **Jamf Press Releases**  
+  https://www.jamf.com/press-releases/rss/
+  
+  
 ---
 
 ## #jamfnation
@@ -188,6 +195,12 @@ _No feeds assigned yet._
 - **Free Games Finders RSS Feed**  
   https://steamcommunity.com/groups/freegamesfinders/rss/
 
+---
+
+## #freegames-prime
+
+- **Free Amazon Prime Games (PC)*  
+  https://feed.eikowagenknecht.com/lootscraper_amazon_game.xml
 
 ---
 
