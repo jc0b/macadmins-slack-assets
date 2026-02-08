@@ -104,7 +104,7 @@ This file exists to enable rapid rebuilds if Slack RSS integrations are lost.
   https://www.securemac.com/feed
 
 - **Sound Mac Guy**  
-  https://soundmacguy.wordpress.com/feed/
+  https://soundmacguy.org.uk/feed.xml
 
 - **Travelling Tech Guy**  
   https://travellingtechguy.eu/feed/
