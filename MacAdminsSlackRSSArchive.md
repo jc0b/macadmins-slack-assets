@@ -7,7 +7,7 @@ Feeds are grouped by the Slack channels they post into.
 
 This file exists to enable rapid rebuilds if Slack RSS integrations are lost.
 
-**Last Updated:** 2026-01-13
+**Last Updated:** 2026-03-26
 
 ---
 
